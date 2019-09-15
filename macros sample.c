@@ -16,4 +16,4 @@ int main() {
   printf("STDC : %d\n",__STDC__);
 }
 
-// there are two type of macros 1. Function 2. Object .
+// There are two type of macros 1. Pre-define macro 2. Types of macros - (1)-> Object-like (2)-> Function-like Macros
