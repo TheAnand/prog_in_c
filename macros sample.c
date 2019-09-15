@@ -26,5 +26,8 @@ There are two type of macros
 1. Pre-define macro
 2. Types of macros - (1)-> Object-like (2)-> Function-like Macros
 
+    Object-like macros: These macros are not capable of taking parameters.
+    Function-like macros: These macros are capable of taking parameters.
+    
 Key takeaway: It is important to note that the macros are not terminated by a semicolon (;)
 */
