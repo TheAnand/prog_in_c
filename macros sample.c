@@ -16,4 +16,15 @@ int main() {
   printf("STDC : %d\n",__STDC__);
 }
 
-// There are two type of macros 1. Pre-define macro 2. Types of macros - (1)-> Object-like (2)-> Function-like Macros
+/* 
+Macros are nothing but a piece of code based on the #define preprocessor.
+In the C programming language, a macro would generally look like:
+
+#define MACRO macro_value
+
+There are two type of macros 
+1. Pre-define macro
+2. Types of macros - (1)-> Object-like (2)-> Function-like Macros
+
+Key takeaway: It is important to note that the macros are not terminated by a semicolon (;)
+*/
