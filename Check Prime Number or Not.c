@@ -10,7 +10,7 @@ int main() {
 		}
 	}
 	if(flag==0){
-		if(num==0 || num==1)
+		if(num<=1)
 			return 0;
 		printf("Number is prime.");
 	}
